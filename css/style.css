@@ -872,7 +872,7 @@
 	#banner
 	{
 		position: relative;
-		background: #333 url(../images/banner.jpg) no-repeat center;
+		background: #333 url(https://raw.githubusercontent.com/codewarindia/codewarindia.github.io/master/images/banner.jpg) no-repeat center;
 		background-size: cover;
 		color: #fff;
 	}
