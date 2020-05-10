@@ -313,13 +313,14 @@
 
             }
             
-            .button-big
+        .button-big
 		{
 			padding: 0em 4em;
 			font-size: 1.4em;
 			font-weight: 900;
             text-align: center;
             text-transform: uppercase;
+			cursor: pointer;
 		}
 
 
@@ -872,7 +873,7 @@
 	#banner
 	{
 		position: relative;
-		background: #333 url('https://raw.githubusercontent.com/codewarindia/codewarindia.github.io/master/images/banner.jpg') no-repeat center;
+		background: #333 url(../images/banner.jpg) no-repeat center;
 		background-size: cover;
 		color: #fff;
 	}
